@@ -13,8 +13,8 @@
         {{partial "darkmode.html" .}}
     </header>
     <article>
-        <h1>All {{.Title}}</h1>
-        {{partial "page-list.html" .Paginator.Pages.ByLastmod.Reverse }}
+        <h1>{{.Title}}</h1>
+        {{partial "page-list.html" .Paginator.Pages.ByTitle.Reverse }}
         {{ template "_internal/pagination.html" .}}
     </article>
     {{partial "contact.html" .}}
