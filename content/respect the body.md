@@ -1,5 +1,15 @@
 ---
 title: "respect the body"
+tags:
+- mindfulness
+- exercise
+- cycling
+- walking
+- hiking
+- running
+- playing
+- recovery
+- health
 ---
 
 keep your body in tune. eat using #mindfulness practices. think about where your food originates from. if you can't stomach the way the food is made, don't eat it.

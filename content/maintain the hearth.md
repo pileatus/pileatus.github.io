@@ -3,6 +3,9 @@ title: "maintain the hearth"
 tags:
 - mindfulness
 - mental-health
+- hearth
+- social
+- organization
 ---
 
 a tidy #hearth makes for a more relaxed mind. this goes for both the physical and #social hearth in your life.

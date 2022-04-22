@@ -3,6 +3,14 @@ title: "listen to nature"
 tags:
 - celebration
 - holiday
+- nature
+- walking
+- cycling
+- hiking
+- camping
+- gardening
+- mindfulness
+- observation
 ---
 
 be mindful of your impact on #nature. not just in the ways that you change it, but in the people, organizations, and ideas you support. make the time to spend in nature, be it #walking, #cycling, #hiking, #camping, #gardening, or any other outdoor activity. #mindfulness

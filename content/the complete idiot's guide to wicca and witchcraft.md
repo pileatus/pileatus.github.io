@@ -3,6 +3,9 @@ title: "the complete idiot's guide to wicca and witchcraft"
 tags:
 - nonfiction
 - wicca
+- introduction
+- witchcraft
+- pandemic
 ---
 
 my first #introduction into #witchcraft. picked it up as a teenager and carried it around my rural indiana school. i was very edgy. 😉

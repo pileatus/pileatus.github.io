@@ -1,5 +1,9 @@
 ---
 title: "study"
+tags:
+- learning
+- uncomfortable
+- growing
 ---
 
 #learning is an integral part of my practice. it is ever-evolving, and so i should continue to intake new information and decide what fits into my [practice](pillars%20of%20practice.md). sometimes this may mean i learn something no longer serves me. sometimes i will learn an #uncomfortable truth about something i thought i knew. facing that, reflecting on it, and [making amends](uplift%20the%20marginalized.md) is an important part of learning and #growing.

@@ -5,6 +5,7 @@ tags:
 - summer
 - celebration
 - observation
+- camping
 ---
 
 on this day, the daylight is longest. i typically celebrate by going bike #camping.

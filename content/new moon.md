@@ -3,6 +3,7 @@ title: "🌑 new moon"
 tags:
 - lunar
 - moon
+- intentions
 ---
 
 - set #intentions

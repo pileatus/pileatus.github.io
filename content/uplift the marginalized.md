@@ -5,6 +5,8 @@ tags:
 - mindfulness
 - holiday
 - observation
+- donate
+- uncomfortable
 ---
 
 this goes hand-in-hand with [don't punch down](dont%20punch%20down.md). use your privilege to uplift those who are without it. #donate to causes that uplift others. listen to voices of the marginalized without centering yourself. get comfortable with being #uncomfortable.
