@@ -3,7 +3,7 @@ title: "listen before speaking"
 tags:
 - uncomfortable
 - social
-- listen
+- listening
 ---
 
 before inserting your own opinion into a conversation, think about whether or not you are centering yourself. i'm a habitual "problem solver," and i am constantly reminding myself that no, not everybody wants advice on how to solve their problems. sometimes they only want to vent, complain, or just commiserate with other folks. they also _usually_ don't want to hear about the time you also went through something similar.
