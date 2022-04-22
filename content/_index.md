@@ -1,27 +1,9 @@
 ---
-title: 🪴 Quartz 3.2
+title: "pileated"
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+this digital garden was largely inspired by [dabbler's guide to witchcraft](dabbler's%20guide%20to%20witchcraft.md), which drove me to write out and document my nature-based spirituality, starting with my [pillars of practice](pillars%20of%20practice.md).
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
+pileatus is written in [obsidian](https://obsidian.md) and published using [quartz](https://github.com/jackyzha0/quartz). [github.com](https://github.com) hosts the site.
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
-
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
-
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
-
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
-
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+the name `pileatus` comes from `dryocopus pileatus`, which is the scientific name for [pileated woodpeckers](https://en.wikipedia.org/wiki/Pileated_woodpecker), a favorite animal of mine. this, of course, is another nod to one of the pillars: [listen to nature](listen%20to%20nature.md). it's rather difficult to ignore such a noisy bird!

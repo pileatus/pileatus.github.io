@@ -1,0 +1,31 @@
+---
+title: "garden"
+---
+
+## successful harvests
+- tomatoes
+- basil
+- sage
+- rosemary
+- bell peppers
+- lettuce
+
+## in production
+- peas
+- broccoli
+- carrots
+
+## houseplants
+- pothos
+- snake plant
+- aloe
+
+## 💀 didn't work out
+- orchid
+- thyme
+- cilantro
+- yarrow
+- succulents (various)
+- trees (various)
+
+#gardening #food #plants #nature
