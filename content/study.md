@@ -10,7 +10,7 @@ tags:
 
 ## books
 - [braiding sweetgrass](braiding%20sweetgrass.md)
-- [dabbler's guide to witchcraft](dabbler's%20guide%20towitchcraft.md)
+- [dabbler's guide to witchcraft](dabbler's%20guide%20to%20witchcraft.md)
 - [the complete idiots guide to wicca and witchcraft](the%20complete%20idiot's%20guide%20to%20wicca%20and%20witchcraft.md)
 - [the nature fix](the%20nature%20fix.md)
 

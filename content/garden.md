@@ -1,5 +1,12 @@
 ---
 title: "garden"
+tags:
+- nature
+- food
+- gardening
+- vegetables
+- plants
+- herbs
 ---
 
 ## successful harvests
@@ -27,5 +34,3 @@ title: "garden"
 - yarrow
 - succulents (various)
 - trees (various)
-
-#gardening #food #plants #nature
