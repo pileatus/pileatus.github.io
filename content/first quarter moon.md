@@ -8,4 +8,4 @@ tags:
 
 - beginnings
 - ramping up
-- #planning
+- planning

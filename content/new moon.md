@@ -6,6 +6,6 @@ tags:
 - intentions
 ---
 
-- set #intentions
+- set intentions
 - start fresh
 - [cleaning](maintain the hearth.md)

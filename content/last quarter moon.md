@@ -7,6 +7,6 @@ tags:
 - release
 ---
 
-- #reflection
-- #release
+- reflection
+- release
 - letting go
