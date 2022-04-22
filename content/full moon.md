@@ -6,4 +6,4 @@ tags:
 ---
 
 - crescendo
-- [community](study.md#communities)
+- [community](/study.md#communities)
