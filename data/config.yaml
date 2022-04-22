@@ -8,6 +8,8 @@ description:
 page_title:
   "pileatus"
 links:
+  - link_name: journal
+    link: /journal
   - link_name: obsidian
     link: https://obsidian.md/
   - link_name: quartz
