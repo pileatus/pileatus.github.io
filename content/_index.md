@@ -1,5 +1,5 @@
 ---
-title: "pileated"
+title: "pileatus"
 ---
 
 this digital garden was largely inspired by [dabbler's guide to witchcraft](dabbler's%20guide%20to%20witchcraft.md), which drove me to write out and document my nature-based spirituality, starting with my [pillars of practice](pillars%20of%20practice.md).
