@@ -1,15 +1,14 @@
-name: Jacky Zhao
+name: 🍂 autumn
 enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  a compendium of my personal nature-based spiritual practice
 page_title:
-  "🪴 Quartz 3.2"
+  "pileatus"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: obsidian
+    link: https://obsidian.md/
+  - link_name: quartz
+    link: https://quartz.jzhao.xyz/
