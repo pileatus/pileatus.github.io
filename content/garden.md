@@ -1,5 +1,7 @@
 ---
 title: "garden"
+aliases:
+- gardening
 tags:
 - nature
 - food

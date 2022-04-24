@@ -1,5 +1,7 @@
 ---
 title: "solar"
+aliases:
+- "sun"
 tags:
 - celebration
 - holiday

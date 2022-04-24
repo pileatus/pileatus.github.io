@@ -1,5 +1,8 @@
 ---
 title: "listen to nature"
+aliases:
+- "listening to nature"
+- "nature"
 tags:
 - celebration
 - holiday

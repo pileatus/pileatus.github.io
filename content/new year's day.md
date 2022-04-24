@@ -1,5 +1,7 @@
 ---
 title: "new year's day"
+aliases:
+- "new year's"
 tags:
 - holiday
 - observation

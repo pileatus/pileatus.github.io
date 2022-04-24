@@ -1,5 +1,8 @@
 ---
 title: "autumn equinox"
+aliases:
+- "autumnal equinox"
+- "september equinox"
 tags:
 - solar
 - autumn

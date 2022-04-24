@@ -1,5 +1,7 @@
 ---
 title: "meditation"
+aliases:
+- "meditate"
 tags:
 - mindfulness
 - meditation

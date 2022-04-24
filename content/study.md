@@ -1,5 +1,9 @@
 ---
 title: "study"
+aliases:
+- "studying"
+- "learning"
+- "research"
 tags:
 - learning
 - uncomfortable

@@ -1,5 +1,7 @@
 ---
 title: "lunar"
+aliases:
+- "moon"
 tags:
 - celebration
 - observation

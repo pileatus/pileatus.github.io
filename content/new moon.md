@@ -1,5 +1,7 @@
 ---
 title: "🌑 new moon"
+aliases:
+- "dark moon"
 tags:
 - lunar
 - moon

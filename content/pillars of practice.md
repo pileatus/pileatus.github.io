@@ -1,5 +1,7 @@
 ---
 title: "pillars of practice"
+aliases:
+- "pillars"
 ---
 
 actions taken as part of my nature-based spirituality.
