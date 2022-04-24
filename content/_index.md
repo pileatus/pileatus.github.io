@@ -8,4 +8,4 @@ the name `pileatus` comes from `dryocopus pileatus`, which is the scientific nam
 
 you can view [all tags](/tags) or press `cmd/ctrl+k` to search for anything.
 
-pileatus is written in [obsidian](https://obsidian.md) and published using [quartz](https://github.com/jackyzha0/quartz). i use [github pages](https://github.com) to host the site.
+pileatus is written in [obsidian](https://obsidian.md/) and published using [quartz](https://github.com/jackyzha0/quartz). i use [github pages](https://github.com) to host the site.
