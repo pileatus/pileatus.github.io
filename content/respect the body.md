@@ -1,5 +1,9 @@
 ---
 title: "respect the body"
+aliases:
+- "respecting my body"
+- "respect your body"
+- "respect my body"
 tags:
 - mindfulness
 - exercise

@@ -1,5 +1,7 @@
 ---
 title: "cross quarters"
+aliases:
+- "cross quarter"
 tags:
 - solar
 ---

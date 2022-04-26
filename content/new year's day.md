@@ -2,6 +2,7 @@
 title: "new year's day"
 aliases:
 - "new year's"
+- "new year"
 tags:
 - holiday
 - observation

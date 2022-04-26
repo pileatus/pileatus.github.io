@@ -1,5 +1,7 @@
 ---
 title: "order of bards, ovates, and druids"
+aliases:
+- "order of bards, ovates, and druids"
 tags:
 - druidry
 - folklore

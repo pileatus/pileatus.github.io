@@ -30,12 +30,12 @@ Do you, Corey, promise to spend your life with Autumn, meeting each new day toge
 
 Do you, Autumn, promise to spend your life with Corey, meeting each new day together, continuing to deepen your understanding of him, treating him with kindness and compassion, and welcoming each new chapter of life together with curiosity and patience?
 
-# Vows
+## Vows
 
 Autumn and Corey will now be bound together in love and commitment in a ( sand pouring? ) ceremony. This symbolizes a deepening of their connection, and a union strengthened by their words of faithfulness, but stronger than words alone.
 
 ( exchange vows )
 
-# Pronouncement
+## Pronouncement
 
 By the authority vested in me by Autumn and Corey, and with the trust of you all here today, I now declare you committed. You may now share a kiss. 😘

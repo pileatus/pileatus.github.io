@@ -1,5 +1,7 @@
 ---
 title: "equinoxes"
+aliases:
+- "equinox"
 tags:
 - solar
 ---

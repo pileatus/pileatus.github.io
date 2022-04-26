@@ -1,5 +1,7 @@
 ---
 title: "deities"
+aliases:
+- "deity"
 tags:
 - deity
 - gods

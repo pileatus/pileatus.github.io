@@ -3,6 +3,8 @@ title: "listen to nature"
 aliases:
 - "listening to nature"
 - "nature"
+- "time in nature"
+- "respect nature"
 tags:
 - celebration
 - holiday

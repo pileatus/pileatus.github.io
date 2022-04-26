@@ -1,5 +1,7 @@
 ---
 title: "solstices"
+aliases:
+- "solstice"
 tags:
 - solar
 ---

@@ -1,5 +1,7 @@
 ---
 title: "be kind to yourself"
+aliases:
+- "be kind to myself"
 tags:
 - vacation
 - therapy

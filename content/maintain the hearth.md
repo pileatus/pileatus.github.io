@@ -2,6 +2,7 @@
 title: "maintain the hearth"
 aliases:
 - "cleaning"
+- "the hearth"
 tags:
 - mindfulness
 - mental-health

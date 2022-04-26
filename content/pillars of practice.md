@@ -2,6 +2,7 @@
 title: "pillars of practice"
 aliases:
 - "pillars"
+- "practice"
 ---
 
 actions taken as part of my nature-based spirituality.

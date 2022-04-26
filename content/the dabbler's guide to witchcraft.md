@@ -1,5 +1,8 @@
 ---
-title: "dabbler's guide to witchcraft"
+title: "the dabbler's guide to witchcraft"
+aliases:
+- "dabbler's guide"
+- "dabbler's guide to witchcraft"
 tags:
 - nonfiction
 - witchcraft
