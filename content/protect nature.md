@@ -1,10 +1,12 @@
 ---
-title: "listen to nature"
+title: "protect nature"
 aliases:
+- "listen to nature"
 - "listening to nature"
 - "nature"
 - "time in nature"
 - "respect nature"
+- "protect nature"
 tags:
 - celebration
 - holiday

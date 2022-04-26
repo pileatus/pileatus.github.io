@@ -10,5 +10,5 @@ tags:
 
 ways to celebrate:
 
-- spend some time in [nature](listen%20to%20nature.md)
+- spend some time in [nature](protect%20nature.md)
 - pick up trash outside
