@@ -4,6 +4,7 @@ aliases:
 - "respecting my body"
 - "respect your body"
 - "respect my body"
+- "take care of my body"
 tags:
 - mindfulness
 - exercise

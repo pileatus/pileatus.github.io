@@ -16,6 +16,7 @@ tags:
 ## books[^1]
 - [braiding sweetgrass](braiding%20sweetgrass.md)
 - [the dabbler's guide to witchcraft](the%20dabbler's%20guide%20to%20witchcraft.md)
+	- [book club answers](book%20club/the%20dabbler's%20guide%20to%20witchcraft.md)
 - [the complete idiots guide to wicca and witchcraft](the%20complete%20idiot's%20guide%20to%20wicca%20and%20witchcraft.md)
 - [the nature fix](the%20nature%20fix.md)
 

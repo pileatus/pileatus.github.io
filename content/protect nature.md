@@ -7,6 +7,7 @@ aliases:
 - "time in nature"
 - "respect nature"
 - "protect nature"
+- "climate change"
 tags:
 - celebration
 - holiday
