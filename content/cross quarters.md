@@ -10,6 +10,6 @@ there are four cross quarter days: [february 1](february%201.md), [may 1](may%20
 
 some pagans call these by other names:
 - february 1: imbolc
-- may 1: beltane
+- [may 1](may%201.md): beltane
 - august 1: lughnasadh
 - october 31: samhain

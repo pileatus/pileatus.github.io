@@ -10,7 +10,7 @@ these were asked as part of the [sass witches](sass%20witches.md) book club for 
 
 > Have you ever performed a breakup ritual or other ritual that you didn't think of as witchcraft?
 
-my sister and i would ritually sing "eye of the tiger" before dog shows growing up. i've also always loved staring at the moon, and i'll often open the blinds to see it!
+my sister and i would ritually sing "eye of the tiger" before dog shows growing up. i've also always loved staring at the [moon](lunar.md), and i'll often open the blinds to see it!
 
 > Have you believed a lie that you read in a witchy book or heard from the witch community? How did you come to know the lie was incorrect?
 
@@ -18,7 +18,7 @@ probably, but i don't remember a specific instance.
 
 > How can we find better answers when researching magic, religion, and culture?
 
-i feel like this is getting easier every day! i remember trying to research things as a teenager, and it was _so hard_ to do so.
+i feel like this is getting easier every day! i remember trying to [research](study.md) things as a teenager, and it was _so hard_ to do so.
 
 ## chapter 1
 
@@ -36,7 +36,7 @@ i think this was mentioned in the book, but they're often very evil and ugly! wh
 
 > The author refers to the movie The Craft and says "Magic can look like having a picnic in the woods with your friends." What feels magic to you?
 
-anything in nature. camping with friends. riding my bike. howling at the moon.
+anything in [nature](protect%20nature.md). camping with friends. riding my bike. howling at the [moon](lunar.md).
 
 > What was your first witchcraft book?
 
@@ -54,7 +54,7 @@ even the more magically inclined folks i've seen still tell you to do the work! 
 
 > The author also quotes Terry Pratchett—"It doesn't stop being magic, just because you know how it works." What is something you understand but is still magical to you?
 
-so. many. things. i've seen various magic tricks (like, magicians), and even when i see them explained in great detail, it's still magical. same goes for knowing what the moon is. it's still this giant thing we can see in the sky, and that's neat!
+so. many. things. i've seen various magic tricks (like, magicians), and even when i see them explained in great detail, it's still magical. same goes for knowing what the [moon](lunar.md) is. it's still this giant thing we can see in the sky, and that's neat!
 
 ## chapter 3
 
@@ -64,7 +64,7 @@ honestly? not much of anything. i don't consider a spell a failure, because gett
 
 > The author says that magic is a tool and failure is a part of growth and magic. As a SASS witch, are there skills you need to learn to practice more effective magic?
 
-studying, listening to nature, and thinking more deeply are big parts of my practice. so yeah, i had to learn those skills better in order to be more effective.
+[studying](study.md), [listening to nature](protect%20nature.md), and thinking more deeply are big parts of my [practice](pillars%20of%20practice.md). so yeah, i had to [learn](study.md) those skills better in order to be more effective.
 
 > The author says Circumstances are the big C of magic. He defines circumstances that are important as emotional state, focus, and intent. How do these affect your ability to practice magic?
 
@@ -86,7 +86,7 @@ been a minute since i've read this chapter. i do often do a "hmmm" when people l
 
 > What historical witches have most impacted society’s perception of witches?
 
-i'm not super well versed in the various historical witches. maybe i need to do some more studying on this. 😅
+i'm not super well versed in the various historical witches. maybe i need to do some more [studying](study.md) on this. 😅
 
 > What falsities remain popular about the Salem Witch trials? What other theories have you heard about what happened? Do you think any of the witches were really practicing witchcraft?
 
