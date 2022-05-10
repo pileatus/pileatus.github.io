@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "_index",
+      "path": "_index.md"
+    },
+    {
+      "type": "file",
+      "title": "pillars of practice",
+      "path": "pillars of practice.md"
+    },
+    {
+      "type": "file",
+      "title": "code of conduct",
+      "path": "code of conduct.md"
+    },
+    {
+      "type": "file",
+      "title": "_index",
+      "path": "content/_index.md"
+    },
+    {
+      "type": "file",
+      "title": "pillars of practice",
+      "path": "content/pillars of practice.md"
+    },
+    {
+      "type": "file",
+      "title": "code of conduct",
+      "path": "content/code of conduct.md"
+    }
+  ]
+}
