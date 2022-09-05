@@ -18,10 +18,7 @@ tags:
 - rosemary
 - bell peppers
 - lettuce
-
-## in production
 - peas
-- broccoli
 - carrots
 
 ## houseplants
@@ -36,3 +33,8 @@ tags:
 - yarrow
 - succulents (various)
 - trees (various)
+- broccoli
+
+# planning
+
+![](upload/bhg-classic-herb-garden-plan.pdf)

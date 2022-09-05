@@ -14,5 +14,5 @@ this goes hand-in-hand with [don't punch down](don't%20punch%20down.md). use you
 # celebrations
 
 - june 19: [juneteenth](juneteenth.md)
-- october 12: [indiginous peoples' day](indiginous%20peoples'%20day.md)
+- october 12: [indigenous peoples' day](indigenous%20peoples'%20day.md)
 - first tuesday after monday in november: [election day](election%20day.md)
