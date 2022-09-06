@@ -2,6 +2,7 @@
 title: "equal rites"
 tags:
 - fiction
+- imported
 ---
 
 **⚠ this page may contain spoilers.**

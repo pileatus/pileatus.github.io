@@ -3,6 +3,7 @@ title: "gwers 12"
 tags:
 - obod
 - gwers
+- imported
 ---
 
 > are you proactive or reactive in your social life?

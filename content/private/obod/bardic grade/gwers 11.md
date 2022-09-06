@@ -3,6 +3,7 @@ title: "gwers 11"
 tags:
 - obod
 - gwers
+- imported
 ---
 
 my older half is wearing a simple red dress. she has unkempt long, wavy grey hair. she speaks slowly and intentionally. i'm not sure of her age exactly, but maybe in her seventies or early eighties.

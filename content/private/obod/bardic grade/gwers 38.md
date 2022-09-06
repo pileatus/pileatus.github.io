@@ -4,6 +4,7 @@ tags:
 - obod
 - gwers
 - fire
+- imported
 ---
 
 **circle blessing with fire.** may this circle be blessed by fire.

@@ -3,6 +3,7 @@ title: "gwers 10"
 tags:
 - obod
 - gwers
+- imported
 ---
 
 > if my life was a story, what part of the story would i change?

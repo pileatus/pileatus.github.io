@@ -3,6 +3,7 @@ title: "gwers 13"
 tags:
 - obod
 - gwers
+- imported
 ---
 
 > what does afagddu represent to me?

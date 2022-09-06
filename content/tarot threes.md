@@ -4,6 +4,7 @@ tags:
 - tarot
 - divination
 - prompt
+- imported
 ---
 
 one|two|three

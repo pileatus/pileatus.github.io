@@ -5,6 +5,7 @@ tags:
 - gwers
 - water
 - dream
+- imported
 ---
 
 **psychic digestion.** events of the previous day. used to file things away. probably not worth analyzing.
