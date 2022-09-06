@@ -7,8 +7,12 @@
         "id": "682015f60fe3722f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "lunar/2021-08.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fox-ne",
+                "query": "gibbos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "lunar/2021-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,15 +107,15 @@
   },
   "active": "682015f60fe3722f",
   "lastOpenFiles": [
-    "private/obod/bardic grade/gwers 41?.md",
-    "private/obod/bardic grade/gwers 40.md",
-    "private/obod/bardic grade/gwers 39.md",
-    "private/obod/bardic grade/gwers 38.md",
-    "private/obod/bardic grade/gwers 36.md",
-    "private/obod/bardic grade/gwers 33.md",
-    "private/obod/bardic grade/gwers 10.md",
-    "private/obod/bardic grade/gwers 11.md",
-    "private/obod/bardic grade/gwers 12.md",
-    "private/obod/bardic grade/gwers 13.md"
+    "lunar/2021-08.md",
+    "lunar/2021-05.md",
+    "lunar/2021-04.md",
+    "lunar.md",
+    "full moon.md",
+    "tarot threes.md",
+    "journal/2021-08-30.md",
+    "journal/2021-08-31.md",
+    "a year and a day of everyday witchcraft.md",
+    "study.md"
   ]
 }
