@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lunar/2021-08.md",
+            "file": "study.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gibbos",
+                "query": "tag:#club",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lunar/2021-08.md",
+                "file": "study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
   },
   "active": "682015f60fe3722f",
   "lastOpenFiles": [
+    "study.md",
+    "equal rites.md",
+    "book club/the dabbler's guide to witchcraft.md",
+    "granny weatherwax.md",
     "lunar/2021-08.md",
     "lunar/2021-05.md",
     "lunar/2021-04.md",
     "lunar.md",
     "full moon.md",
-    "tarot threes.md",
-    "journal/2021-08-30.md",
-    "journal/2021-08-31.md",
-    "a year and a day of everyday witchcraft.md",
-    "study.md"
+    "tarot threes.md"
   ]
 }

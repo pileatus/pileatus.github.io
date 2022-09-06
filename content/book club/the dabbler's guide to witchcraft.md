@@ -1,7 +1,7 @@
 ---
 title: "the dabbler's guide to witchcraft"
 tags:
-- "book club"
+- book-club
 ---
 
 these were asked as part of the [sass witches](sass%20witches.md) book club for [the dabbler's guide to witchcraft](the%20dabbler's%20guide%20to%20witchcraft.md).
