@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "commitment ceremony.md",
+            "file": "journal/2022-09-05.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "commitment ceremony.md",
+                "file": "journal/2022-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "682015f60fe3722f",
   "lastOpenFiles": [
+    "journal/2022-09-05.md",
+    "a year and a day of everyday witchcraft.md",
+    "equal rites.md",
+    "journal/2022-05-06.md",
+    "may 1.md",
+    "binding spell.md",
     "commitment ceremony.md",
     "druid's prayer.md",
-    "equal rites.md",
     "garden.md",
-    "granny weatherwax.md",
-    "new moon.md",
-    "obod.md",
-    "think before acting.md",
-    "the nature fix.md",
-    "tarot threes.md"
+    "granny weatherwax.md"
   ]
 }
