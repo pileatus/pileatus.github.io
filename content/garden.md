@@ -37,4 +37,4 @@ tags:
 
 # planning
 
-![](upload/bhg-classic-herb-garden-plan.pdf)
+![](upload/garden-herb-garden-plan.pdf)

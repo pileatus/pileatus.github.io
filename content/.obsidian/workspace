@@ -7,12 +7,8 @@
         "id": "682015f60fe3722f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fox-ne",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +103,15 @@
   },
   "active": "682015f60fe3722f",
   "lastOpenFiles": [
-    "_index.md",
-    "journal/_index.md",
-    "book club/the dabbler's guide to witchcraft.md",
-    "winter solstice.md",
-    "uplift the marginalized.md",
-    "think before acting.md",
-    "the nature fix.md",
-    "the dabbler's guide to witchcraft.md",
-    "the complete idiot's guide to wicca and witchcraft.md",
-    "summer solstice.md"
+    "private/obod/bardic grade/gwers 41?.md",
+    "private/obod/bardic grade/gwers 40.md",
+    "private/obod/bardic grade/gwers 39.md",
+    "private/obod/bardic grade/gwers 38.md",
+    "private/obod/bardic grade/gwers 36.md",
+    "private/obod/bardic grade/gwers 33.md",
+    "private/obod/bardic grade/gwers 10.md",
+    "private/obod/bardic grade/gwers 11.md",
+    "private/obod/bardic grade/gwers 12.md",
+    "private/obod/bardic grade/gwers 13.md"
   ]
 }
