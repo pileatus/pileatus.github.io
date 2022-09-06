@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lunar-journal/_index.md",
+            "file": "granny weatherwax.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#club",
+                "query": "tag:#depictions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lunar-journal/_index.md",
+                "file": "granny weatherwax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "682015f60fe3722f",
   "lastOpenFiles": [
+    "granny weatherwax.md",
+    "protect nature.md",
+    "_index.md",
+    "book club/the dabbler's guide to witchcraft.md",
     "lunar-journal/_index.md",
     "journal/_index.md",
     "lunar-journal/2021-08.md",
     "lunar-journal/2021-05.md",
     "lunar-journal/2021-04.md",
-    "journal/2022-09-05.md",
-    "a year and a day of everyday witchcraft.md",
-    "equal rites.md",
-    "journal/2022-05-06.md",
-    "may 1.md"
+    "journal/2022-09-05.md"
   ]
 }

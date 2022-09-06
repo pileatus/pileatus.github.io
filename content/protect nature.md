@@ -22,13 +22,13 @@ tags:
 - compost
 ---
 
-be mindful of your impact on #nature. not just in the ways that you change it, but in the people, organizations, and ideas you support. make the time to spend in nature, be it #walking, #cycling, #hiking, #camping, #gardening, or any other outdoor activity.
+be mindful of your impact on nature. not just in the ways that you change it, but in the people, organizations, and ideas you support. make the time to spend in nature, be it walking, cycling, hiking, camping, gardening, or any other outdoor activity.
 
 this can closely align with one of the other [pillars](pillars%20of%20practice.md): [respect the body](respect%20the%20body.md). it also aligns well with observing the [lunar](lunar.md) and [solar](solar.md) cycles, as those are part of the natural world.
 
 grow your own food when you can. [your garden](garden.md) is a practice in patience and dedication. it's also supremely rewarding!
 
-reduce, reuse, repair, and recycle. this can come in all sorts of forms from #composting to #cycling instead of driving.
+reduce, reuse, repair, and recycle. this can come in all sorts of forms from composting to cycling instead of driving.
 
 # additional celebrations
 
