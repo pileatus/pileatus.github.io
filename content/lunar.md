@@ -25,7 +25,7 @@ may|snake moon
 june|strawberry moon
 july|beach moon
 august|heat moon
-september|falling leaf moon
+september|rose moon
 october|
 november|
 december|
