@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d46357d34dc9550",
+        "id": "2562308c93c2fb6d",
         "type": "tabs",
         "children": [
           {
-            "id": "a8eb391a2ba8dfa0",
+            "id": "47926925cd73628b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022-09-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d681216bd0b112f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lunar.md",
+                "file": "journal/2022-11-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-09-06.md",
+                "file": "journal/2022-11-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +114,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "a8eb391a2ba8dfa0",
+  "active": "47926925cd73628b",
   "lastOpenFiles": [
-    "journal/2022-04-23.md",
-    "journal/2022-04-22.md",
-    "journal/2021-08-31.md",
-    "journal/2021-08-30.md",
-    "journal/2021-08-29.md",
-    "journal/2021-08-09.md",
-    "journal/2021-07-11.md",
-    "journal/2021-04-17.md",
-    "journal/2021-03-20.md",
-    "journal/2021-04-12.md"
+    "journal/2022-11-12.md",
+    "journal/2022-11-23.md",
+    "autumn equinox.md",
+    "equinoxes.md",
+    "solstices.md",
+    "cross quarters.md",
+    "solar.md",
+    "lunar.md",
+    "journal/2022-09-06.md",
+    "private/obod/bardic grade/gwers 41.md"
   ]
 }
