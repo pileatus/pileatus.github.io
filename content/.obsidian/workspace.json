@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2022-11-23.md",
+                "file": "hausmagick.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-11-23.md",
+                "file": "hausmagick.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,17 +114,28 @@
     "direction": "horizontal",
     "width": 300
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
   "active": "47926925cd73628b",
   "lastOpenFiles": [
-    "journal/2022-11-12.md",
-    "journal/2022-11-23.md",
+    "a year and a day of everyday witchcraft.md",
+    "hausmagick.md",
+    "study.md",
+    "pillars of practice.md",
+    "_index.md",
     "autumn equinox.md",
-    "equinoxes.md",
-    "solstices.md",
-    "cross quarters.md",
-    "solar.md",
+    "artemis.md",
+    "2023 moons.md",
     "lunar.md",
-    "journal/2022-09-06.md",
-    "private/obod/bardic grade/gwers 41.md"
+    "last quarter moon.md"
   ]
 }

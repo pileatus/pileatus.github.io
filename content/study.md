@@ -19,6 +19,7 @@ tags:
 - [the dabbler's guide to witchcraft](the%20dabbler's%20guide%20to%20witchcraft.md)
 	- [book club answers](book%20club/the%20dabbler's%20guide%20to%20witchcraft.md)
 - [equal rites](equal%20rites.md)
+- [hausmagick](hausmagick.md)
 - [the nature fix](the%20nature%20fix.md)
 - [a year and a day of everyday witchcraft](a%20year%20and%20a%20day%20of%20everyday%20witchcraft.md)
 
