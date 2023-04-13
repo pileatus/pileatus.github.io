@@ -1,0 +1,1 @@
+> she knew, in her heart and in her bones, when she had to kiss her baby for the last time - when she had to walk with him in her arms to the water’s edge, bidding him farewell with a prayer and a trust that he would find his destiny as surely as the salmon finds his spawning grounds each spring.

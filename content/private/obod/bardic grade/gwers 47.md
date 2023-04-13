@@ -1,0 +1,1 @@
+> nine virtues that were considered paramount in celtic society: honour, justice, loyalty, courage, community, hospitality, gentleness, wisdom, and eloquence
